@@ -17,5 +17,5 @@
     "pytoyoda>=5.2.0,<6.0",
     "arrow"
   ],
-  "version": "2.5.1"
+  "version": "2.5.2"
 }
